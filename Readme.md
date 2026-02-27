@@ -1,4 +1,4 @@
-## Web Audio Player Web Components
+## Web Audio Player Web Components - Vercel Dep
 
 This folder contains a minimal demo of custom elements built around the Web Audio API:
 
